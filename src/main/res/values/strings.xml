@@ -1,0 +1,484 @@
+<resources>
+    <string name="app_name">Wissenaire</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Campus Ambassador</string>
+    <string name="menu_slideshow">Guest Lectures</string>
+    <string name="menu_tools">Starnites</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="wissenaire_20">   WISSENAIRE\'20</string>
+    <string name="www_wissenaire_org">   www.wissenaire.org</string>
+    <string name="sponsors">Sponsors</string>
+
+    <string name="campus_ambassador">Campus Ambassador</string>
+    <string name="guest_lectures">Guest lectures</string>
+    <string name="starnites">Starnites</string>
+
+    <string name="team">Team</string>
+    <string name="home">Home</string>
+    <string name="events">Events</string>
+    <string name="workshops">WorkShops</string>
+    <string name="helpdesk">HelpDesk</string>
+    <string name="map">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="q_wissenaire_is_a_national_level_competitive_exam_for_students_of_8th_9th_10th_1_and_2_to_bring_about_a_qualitative_improvement_of_education_in_the_country_this_examination_provide_an_opportunity_for_jee_aspirants_to_compare_and_compete_with_other_peers_across_country">Qwissenaire is a National Level Competitive Exam for students of 8th, 9th,10th, +1 and +2 to bring about a qualitative improvement of education in the country.</string>
+    <string name="qwissenaire">Qwissenaire</string>
+    <string name="tod">TODO</string>
+    <string name="problem_statement">Problem Statement</string>
+    <string name="memoryc">Are you the Master of your mind? Do you have ultimate control over your memory? Take the Memory Challenge to find out! Jump through a series of three rounds, and be able to recall most words, numbers and audio, in the correct order, to be crowned as the Master of retention.\n\n
+
+Contact Details:\n
+
+G.Snehitha\n
+Event Coordinator- Wissenaire’20\n
+Phone no- 7330999838\n
+Email-gs31@iitbbs.ac.in\n
+</string>
+    <string name="schoolc">"Education is not learning of facts but training the mind to think Wissenaire'20 provides an eminent platform to all the young minds out there brimming with enthusiasm. With the prime motive of nurturing cognitive skills and wide exposure to school students, here comes the School Champ with its 4 rounds. Grab this opportunity bestowed on you!!
+
+
+Contact Details:
+K.Revanth
+Event Coordinator
+Phone no: +919381100592
+
+
+</string>
+    <string name="golden_goal_fifa">Golden Goal FIFA</string>
+    <string name="fifae">Wissenaire presents Golden Goal FIFA Championship by IIT Bhubaneswar with a prize pool upto RS 15,000. It makes it one of the biggest FIFA esports in Odisha till date.\n\n
+
+                        Contact Details:\n
+
+                        Sri Harsha\n
+                        Event Coordinator, Wissenaire’20\n
+                        Phone: 9381473491\n
+                        Email ID: ksh10@iitbbs.ac.in\n</string>
+    <string name="wissenaire_presents_golden_goal_fifa_championship_by_iit_bhubaneswar_with_a_prize_pool_upto_rs_15_000_it_makes_it_one_of_the_biggest_fifa_esports_in_odisha">Wissenaire presents Golden Goal FIFA Championship by IIT Bhubaneswar with a prize pool upto RS 15,000. It makes it one of the biggest FIFA esports in Odisha.</string>
+    <string name="school_champ">School Champ</string>
+    <string name="wissenaire_20_provides_an_eminent_platform_to_all_the_young_minds_out_there_brimming_with_enthusiasm_with_the_prime_motive_of_nurturing_cognitive_skills_and_wide_exposure_to_school_students_here_comes_the_school_champ_with_its_4_rounds">Wissenaire\'20 provides an eminent platform to all the young minds out there brimming with enthusiasm.</string>
+    <string name="quizzaire">Quizzaire</string>
+    <string name="wissenaire_20_provides_you_the_platform_to_re_evaluate_the_knowledge_with_exciting_set_of_rounds_with_a_combination_of_breath_taking_questions_from_the_world_of_business_and_enterpreneurship_technology_and_science_domain">Wissenaire\'20 provides you the platform to re-evaluate the knowledge with exciting set of rounds with a combination of breath-taking questions from the world of Business and Enterpreneurship, Technology and Science domain.</string>
+    <string name="are_you_the_master_of_your_mind_do_you_have_ultimate_control_over_your_memory_take_the_memory_challenge_to_find_out_jump_through_a_series_of_three_rounds_and_be_able_to_recall_most_words_numbers_and_audio_in_the_correct_order_to_be_crowned_as_the_master_of_retention">Are you the Master of your mind? Do you have ultimate control over your memory? Take the Memory Challenge to find out! </string>
+    <string name="memory_challenge">Memory challenge</string>
+    <string name="quizzai">Introduction:\n
+Wissenaire’20 provides you the platform to re-evaluate your knowledge with exhilarating set of
+rounds comprising of breath-taking questions from the world of Business and entrepreneurship, Technology and Science domain. Lets not make it too late to grab the only chance! prove to the other top notch quizzers, that you are the best!\n\n
+Contact Details:\n
+
+D.Madhumitha\n
+Event Coordinator, Wisseanire’20\n
+Phone: 9494288822\n
+Email ID: dm26@iitbbs.ac.in
+</string>
+    <string name="colloquia">Colloquia</string>
+    <string name="wissenaire_20_present_s_you_an_opportunity_to_showcase_your_innovative_ideas_before_the_esteemed_judges_and_inquisitive_audience_that_brings_together_talented_thinkers_around_the_country_to_present_discuss_and_develop_solutions_to_advance_technology_for_humanity">WISSENAIRE\'20 present\'s you an opportunity to showcase your innovative ideas before the esteemed judges and inquisitive audience that brings together talented thinkers around the country to present, discuss and develop solutions to advance technology for humanity.</string>
+    <string name="civil_colloquia">Civil Colloquia</string>
+    <string name="mechanical_colloquia">Mechanical Colloquia</string>
+    <string name="electrical_colloquia">Electrical Colloquia</string>
+    <string name="computer_science_colloquia">Computer Science Colloquia</string>
+    <string name="compu">Wissenaire present\'s you an opportunity to showcase your innovative ideas before the esteemed judges and inquisitive audience at one of the most awaited tech-fest of east India and it is a one of the greatest platform that brings together talented thinkers around the country to present, discuss and develop solutions to advance technology for humanity. So what are you waiting for? Seize this opportunity to express yourself and explore your ideas!\n\n
+        Contact Details:\n
+Aakanksha\n Event Coordinator, Wissenaire’20\n
+ Phone: +91-9326195804\n
+ Email id: ajn10@iitbbs.ac.in\n
+
+
+</string>
+    <string name="wissenaire_20_provides_an_eminent_platform_to_all_the_people_to_show_case_their_skills_and_innovative_ideas">Wissenaire\'20 provides an eminent platform to all the people to show case their skills and Innovative ideas</string>
+    <string name="executive_suite">Executive Suite</string>
+    <string name="auction_war">Auction War</string>
+    <string name="auct">Introduction:\n
+Do you have what it takes to form the ultimate squad?? Do you have the skills to get the best out of your buck? If you can give me a yes both the times, then come and participate in this fun filled event where you can even bring out the comic geek in you. Form the ultimate squad of DC and MARVEL characters by participating in an auction and show the competition that you are the best in managing your money.\n\n
+Contact Details:\n
+Event co-ordinator:\n Deepak Mahalik\n
+                                  Phone: +91-7008248735\n
+                                  Email: dm16@iitbbs.ac.in\n
+
+</string>
+    <string name="pioneers_plan">Pioneers Plan</string>
+    <string name="pio">Introduction:\nAn idea can change your life from nowhere to somewhere. start-ups are the most trending in this contemporary world. A single idea can impact the life style of millions in the world. From this event we are providing the platform to the ideas of the students across India and giving the chance to present their ideas in front of the higher ones which will be useful in the higher stages of the life for the individual.\n\n
+
+        Contact Details :\n
+Chaitra Vardhan\n
+Event Coordinator\n
+Wissenaire’20\n
+Phone NO : +916303317836\n
+Email-ID : bcv10@iitbbs..ac.in\n
+
+</string>
+    <string name="mad_ads">Mad Ads</string>
+    <string name="mad">Introduction:\nNow-a-days people are getting connected to the ads quickly. This is the scenario where most of the corporate companies are concentrating to execute their products differently to the people. This is the event where you can present your advertising skills differently and the way it gets connected to the people with ease. This is the platform to the young innovators to show case their talent in presenting the ads.\n\n
+        Contact  Deatails :\n
+Chaitra Vardhan\n
+Event Coordinator\n
+Wissenaire’20\n
+Phone NO : +916303317836\n
+Email-ID : bcv10@iitbbs..ac.in\n
+</string>
+    <string name="grand_arcannum">Grand Arcannum</string>
+    <string name="electrade">Electrade</string>
+    <string name="electronix">Electronix</string>
+    <string name="replica">Replica</string>
+    <string name="stimulant">Stimulant</string>
+    <string name="smart_city_challenge">Smart City Challenge</string>
+    <string name="maths_olympiad">Maths Olympiad</string>
+    <string name="electrad">Introduction: \n
+Are you enthusiastic in building circuits? Are you waiting for an opportunity to prove your intelligence in field of circuits? Then Wissenaire’20 is providing you an opportunity in form of event Electrade, where you will not only build circuits with your innovative ideas but also you will be using your managing skills. This will help you in boosting your confidence and thinking skills and managing skills. \n\n
+Contact Details:\n
+Manoj Kumar Mallepula\n
+ Event Coordinator\n
+ Phone: +91-9381300076 \n
+Email ID: mak13@iitbbs.ac.in\n
+
+</string>
+    <string name="electroni">Electronix is one of the exciting event in our prestigious Techno management fest-Wissenaire .This the great platform for studious students across india to showcase their skills in the branch of electronics. With the grand success in the 9th edition of wissenaire ,we are coming up with same enthusiasm and exciting events which make you explore the most exciting days in your life.\n\n
+Contact Details:\n K.Hrushikesh naidu\n  Event Coordinator, Wissenaire’20\n Phone: +91-9494547639\n Email-ID: kh11@iitbbs.ac.in\n
+</string>
+    <string name="replic">Introduction :\n
+Low input, high output. Isn’t this the objective to be addressed for most of the engineering problems? One such problem is to lift heavy weights with less amount of energy and is addressed by the invention of a mechanical arm.
+Wouldn’t it be interesting if we had to design such arm and lift objects but by using syringes that’s simpler than simple? Here at wissenaire-20, the platform is designed in such a way that you can showcase your talent in designing such an arm and letting you feel the nostalgia of playing with syringes in your childhood.\n\n
+
+        Contact Details:\n
+M. V. Sai Dev\n
+Event Coordinator\n
+Wissenaire’20\n
+ Phone: +91-9490817647\n
+Email ID: msd12@iitbbs.ac.in\n
+
+</string>
+    <string name="stimulan">Introduction:\n
+
+What comes to your mind when I ask you about the most fascinating science project you have ever done in your childhood ? It was that Rocket you tried with foot pump and a soda bottle. Now its time for the real deal. Skys the limit , yet control is the key. Get your water rocket excel in speed and accuracy to beat the competition.\n\n
+     Contact Details:\n
+M. V. Sai Dev \n
+Event Coordinator\n
+Wissenaire ‘20\n
+Contact no: 9490817647\n
+Email: msd12@iitbbs.ac.in\n
+
+</string>
+    <string name="smart_city">A city is facing several problems due to traffic hassle and many of its citizens are even deprived of the basic facilities. The people of the city are struggling with these problems and are dreaming of a smart city. Design a smart city (your dream city) and it’s up to you, how you plan a smart transportation system and provide good basic facilities in the city within the given budget. MAP of the city will be provided to you for your reference.\n\n
+
+Contact Details:\n
+
+Sampatharao Swetha\n
+
+Event coordinator, Wissenaire’20\n
+
+Phone: 9490777492\n
+
+E-Mail id: ss91@iitbbs.ac.in\n
+
+
+</string>
+    <string name="maths_ol">Introduction:\n
+     Will there be anyone who won’t be interested to become an explorer and experience the adventures in it? Won’t it seem more exciting if you are given a chance to make your expedition wherever you are? If it is so then you are at a right place to start your journey from.
+     And here is your expedition. Your maps are the ways in which you approach the solution which is the hidden treasure. So grab this opportunity of becoming the explorers you wanted to be by participating in this “Maths Olympiad”.\n\n
+
+
+Contact Details: \n
+G.Snehitha \n
+Event Coordinator- Wissenaire’20\n
+Phone no- 7330999838\n
+Email-gs31@iitbbs.ac.in\n
+</string>
+    <string name="archimedes_dunk">Archimedes Dunk</string>
+    <string name="archimede">Participants have to create a concrete cube of dimensions 15cm×15cm×15cm which can float on water.\n\n
+
+Contact Details:\n
+Sampatharao Swetha\n
+Event coordinator, Wissenaire’20\n
+Phone: 9490777492\n
+E-Mail id: ss91@iitbbs.ac.in\n
+</string>
+    <string name="counter_cypher">Counter Cypher</string>
+    <string name="caded">Caded</string>
+    <string name="blind_coding">Blind Coding</string>
+    <string name="wissenaire_20_provides_a_great_opportunity_for_a_novice_to_outshine_in_programming_and_to_push_logical_deductive_and_mathematical_skills_to_the_limit">Wissenaire\'20 provides a great opportunity for a novice to outshine in programming and to push logical, deductive and mathematical skills to the limit.</string>
+    <string name="matricks">Matricks</string>
+    <string name="coun"> Be the Bond of programming and figure out what is the hidden source code by looking at its behaviour on your inputs. The basic idea behind this event is to figure out the "Black Box". In other words, an executable program will be given and the participants have to figure out the code behind it. This event will push your logical, deductive and mathematical skills to the limits.\n\n
+
+Contact Details:\n
+Aakanksha, \n
+Event Coordinator, Wissenaire’20\n
+ Phone: +91-9326195804\n
+ Email id: ajn10@iitbbs.ac.in\n
+</string>
+
+    <string name="blind">Introduction:\nWissenaire provides a great opportunity for a novice to outshine in programming. Boosting the concept of Programming we bring forward a unique coding challenge. Blind coding is the new platform where each and every one of you has a chance to win. This year we bring back our coding competition comprising of two rounds but with a TWIST in the final round!.\n\n
+
+Deepak mahalik\n
+Event Coordinator\n
+Wissenaire’20\n
+Phone: 7008248735\n
+Email id: dm16@iitbbs.ac.in\n
+
+</string>
+    <string name="cade">Introduction:\nHow complex can the mind think? How complicated a machine can you design? How innovative  can it be? Many a time those which are perceived by our brains are too difficult to produce in the physical world. But then, there came CAD to showcase your talents on a creative stage, open exclusively for technical performers of all levels of expertise.   AutoCAD is a commercial computer-aided design (CAD) and drafting Software application. Master the skill of creating ethically pleasing visual elements and design the face of tomorrow.\n\n
+
+Contact Details:\n
+Kavya Yeddula\n
+
+Event Coordinator\n
+Wissenaire’20\n
+Phone Number: +919640784495\n
+Email-ID :  yk15@iitbbs.ac.in\n
+</string>
+    <string name="on_net">On-net</string>
+    <string name="wissenaire_20_provides_all_the_photographers_out_there_a_platform_to_prove_yourself_and_to_use_your_scientific_knowledge_and_humour_both_together_to_create_your_own_scientoons">Wissenaire\'20 provides all the photographers out there, a platform to prove yourself and to use your Scientific Knowledge and humour both together to create your own Scientoons.</string>
+    <string name="science_toons">Science Toons</string>
+    <string name="shutter">Shutter</string>
+    <string name="sherlock">Sherlock</string>
+    <string name="scienc">Introduction:\nScientoons are the cartoons/memes that provide scientific knowledge in a humorous way.
+They are funny but at the same time provide information about new inventions, researches and
+other technology updates.
+Wissenaire’19 provides you a platform to use your scientific knowledge and wit to create your
+own Scientoon (science + cartoon).\n\n
+Reward:\n
+Cash Prize upto 3000/- INR.\n\n
+Contact Details\n
+Ravi Kanth\n
+Event Co-ordinator, Wissenaire’20\n
+PHONE NO: 8074842680\n
+MAIL: pa28@iitbbs.ac.in</string>
+    <string name="sherl">
+        Introduction:\n
+From the Adventures of Sherlock Holmes to the Hardy boys, crime and detective novels have always enthralled us.
+In the process inspiring many to dream of becoming a crime solver.
+ Here comes the Wissenaire’20 with the perfect stage for all those passionate about crime solving…\n\n
+
+        ➢ Wealthy, unmarried Anne Lamont is murdered, and she leaves her entire fortune to a man she met two weeks before, putting suspicion squarely on him. Detective Arnold thinks the man is innocent. He has a week to make his case before this goes before a jury. But when he digs into Anne’s background, he finds the sweet old matron wasn’t at all what she seemed.\n\n
+ ➢ Imagine that you are that detective, how are you going to solve the case and ensure righteousness for the murdered lady. This plot should contain usage of sophisticated technology and betrayal. It must answer questions like, why that lady gave all her property to a not well known man. Add as much twist and mystery as you can.\n\n
+
+
+Contact Details:\n
+ Ravi Kanth,\n
+ Event coordinator,\n
+ wissanaire’20\n
+ Phone no: 9381208893,\n
+pr27@iitbbs.ac.in\n
+</string>
+    <string name="shutt">Introduction: \n
+The photograph is to hold one’s breath, when all faculties converge to capture fleeting reality. It’s at that precise moment that mastering an image becomes a great physical and intellectual joy.
+Wissenaire’20 provides all the photographers out there, a platform to prove yourself.\n\n
+
+Rewards: \n
+➢ Cash prize up to 3000/- INR. \n\n
+Contact Details: \n
+P.Naveen\n
+Event Co-ordinator, Wissenaire’20\n
+PHONE NO: 9573570482 \n
+MAIL:  pcn10@iitbbs.ac.in\n
+</string>
+    <string name="cod4">COD4</string>
+    <string name="cs_go">CS GO</string>
+    <string name="co">Introduction:\n
+      Are you a hardcore gamer? Does the rattle of guns turn you on?
+The time has come to enter the battle field and show your mettle in this
+virtual war. So, zip up your armour and ready your guns as Wissenaire\'20 brings to
+you COD4 Modern Warfare.\n\n
+
+CONTACT DETAILS:\n
+K. Sri Harsha\n
+Event Co-Ordinator\n
+Wissenaire’20\n
+Contact no.: 9381473491\n
+Email id: ksh10@iitbbs.ac.in\n
+</string>
+    <string name="csgo">Introduction:\n
+Are you a hardcore garner? Does the rattle of guns turn you on?
+The time has come to enter the Action field and show your mettle in this virtual
+war. So, zip up your armour and ready your guns as Wissenaire\'20 brings to you
+Counter strike: Global Offensive.\n\n
+
+Contact Details:\n
+K. Sri Harsha\n
+Event Co-ordinator\n
+Wissenaire’20\n
+Contact no.: 9381473491\n
+Email id: ksh10@iitbbs.ac.in\n
+</string>
+    <string name="techex">Wissenaire’20 is organising Tech Expo with the cardinal aim of bringing to light the technological advancements made by the youth of this country and provide an opportunity to showcase their innovations on a larger platform.\n\n
+ Contact Details: \n
+Chaitra Vardhan\n
+Event Coordinator\n
+Wissenaire’20\n
+Phone Number: +91630337836\n
+Email-ID :  bcv10@iitbbs.ac.in\n
+</string>
+    <string name="too">TODO</string>
+    <string name="fbpage">https://www.facebook.com/wissenaireiitbbs/</string>
+    <string name="insta">https://www.instagram.com/wissenaire.iitbbs/</string>
+    <string name="youtube">https://www.youtube.com/channel/UCJqz7Eks0ucAxy9RXyYbJaQ</string>
+    <string name="theme">https://youtu.be/Jwc7TMwVNXk</string>
+    <string name="lan_wars">Lan Wars</string>
+    <string name="are_you_a_hardcore_garner_does_the_rattle_of_guns_turn_you_on_the_time_has_come_to_enter_the_action_field_in_this_virtual_war_so_zip_up_your_armour_and_ready_your_guns_as_wissenaire_20_brings_to_you_counter_strike_global_offensive_and_cod4_modern_warfare">Are you a hardcore garner? Does the rattle of guns turn you on? The time has come to enter the Action field in this virtual war. So, zip up your armour and ready your guns as Wissenaire\'20 brings to you Counter strike: Global Offensive and COD4 Modern Warfare.</string>
+    <string name="tech_expo">Tech Expo</string>
+    <string name="wissenaire_20_is_organising_tech_expo_with_the_cardinal_aim_of_bringing_to_light_the_technological_advancements_made_by_the_youth_of_this_country_and_provide_an_opportunity_to_showcase_their_innovations">Wissenaire’20 is organising Tech Expo with the cardinal aim of bringing to light the technological advancements made by the youth.</string>
+    <string name="yanthrix">Yanthrix</string>
+    <string name="ever_had_a_thought_of_developing_an_autonomous_bot_or_in_building_a_destructive_indestructible_robot_so_make_your_robots_ready_as_wissenaire_20_brings_to_you_robo_wars_drone_challenge_and_many_more">Ever had a thought of developing an autonomous bot? or in building a destructive indestructible robot?.So make your Robots ready as Wissenaire\'20 brings to you Robo Wars,Drone Challenge and many more..</string>
+    <string name="drone_challenge">Drone Challenge</string>
+    <string name="trekkon">Trekkon</string>
+    <string name="robo_wars">Robo Wars</string>
+    <string name="maze_solver">Maze Solver</string>
+    <string name="kick_off">Kick Off</string>
+    <string name="drone">TASK:\n
+Design a wireless remote-controlled flying drone to carry and drop an object for through an obstacle course in minimum time without crashing. This competition will test your drones’ speed, maneuverability, and weight.\n\n
+
+PATH: \n
+The path will consist of pillars, loops, bends, underpass, turbines and other obstacles placed in random sequence along an aerial track. It will end with drop zone and landing pad for testing maneuverability skills.\n\n
+        Contact Details:\n
+Ayazulla Khan\n
+Contact no.: 8297290511\n
+
+</string>
+    <string name="trekko">Make an All-terrain vehicle (Bot) that is capable of taking sharp turns, climbing a hill, moving precisely in a straight line and can jump from a height. Vehicle should be able to sustain unpleasant and un favourable environment. Main task is to transport objects in these challenging conditions.\n\n
+
+        Contact Details:\n
+Ayazulla Khan\n
+Contact no.: 8297290511\n
+</string>
+    <string name="robo_w">Introduction:\n
+
+Remember Real Steel? Show your creativity in building a destructive indestructible robot. Innovate, participate and struggle to win this battle of life and death. If you’re looking to see the best engineers battle it out for the ultimate prize, Wissenaire’20 Robowars is the place to be.So, come and be part of one of the largest events of Wissenaire’20 and be amazed.\n\n
+        Objective:\n
+        Design a manually controlled robot to defeat the opponent robot in a war with in a specific amount of time.\n\n
+        Contact Details:\n
+Ayazulla Khan\n
+Contact no.: 8297290511\n
+
+</string>
+    \n\n<string name="maze_s"> Ever had a thought of developing an autonomous bot? A bot that can track path and challenge cutting the edges with maximum precision? A bot that can run on a complex track with a time constraint? Designing an autonomous bot which can challenge time factor with abilities of following proper path is all about this event.\n\n
+TASK: \n
+  Teams have to build an autonomous robot which can follow a black line and keep track of
+  directions while going through the maze and return to the start in minimum time. \n\n
+
+    Contact Details:\n
+Ayazulla Khan\n
+Contact no.: 8297290511\n
+
+</string>
+    <string name="kick_o">Soccer is an amazing game that requires accuracy and precision in handling the ball, it becomes more interesting when robots start playing it. KICK OFF is a Robosoccer in which bots play football against one another.\n\n
+
+        Contact Details:\n
+Ayazulla Khan\n
+Contact no.: 8297290511\n
+
+    </string>
+    <string name="qwiss">Qwissenaire is a National Level Competitive Exam for students of 8th, 9th,10th, +1 and +2 to bring about a qualitative improvement of education in the country. This examination provide an opportunity for JEE Aspirants to compare and compete with other peers across country.</string>
+    <string name="iot_workshop">IOT with Google Assistant</string>
+    <string name="mercedes_engine_analysis">Mercedes Engine Analysis</string>
+    <string name="hexapod_robotics_workshop">Hexapod Robotics Workshop</string>
+    <string name="iot_wo">Internet of Things (IoT) is an ecosystem of connected physical things that are accessible through the internet. The \'Thing\' in IoT could be a person with a heart monitor or an automobile with built-in-sensors. The embedded devices in the objects helps them to interact with internal states or the external environment, which in turn used for remote monitoring and control purpose and affects the decisions taken.\n\n
+Highlights:\n
+      ➢ Architecture of IoT.\n
+➢ M2M communication protocols.\n
+➢ IFTT and MQTT Protocol for Google Assistant.\n
+➢ Blynk App : Whether Monitoring and Health Monitoring.\n
+</string>
+    <string name="mercedes_eng">Mercedes Engine Analysis workshop mainly focuses from basics to advanced concepts in Automobile
+Engineering. It covers chassis design, working of suspension unit, steering system, braking unit,
+transmission, fuel supply system, IC engine and advanced Technologies like ABS, EBD, PGMFi, DTS-Fi,
+MPFI, VVTI and most importantly their role in Mercedes engine.\n\n
+    Highlights:\n
+➢ Chassis design\n
+➢ Suspension Unit\n
+➢ Transmission system in Mercedes Benz\n
+➢ Various sensors in Mercedes engine\n
+➢ Live demonstration\n
+</string>
+    <string name="hexapod_robotics_work">Are you interested in robotics? Then this workshop helps you in exploring the world of robotics with the
+key interest of Hexapod, a mechanical vehicle that walks on six legs. Come, join us and find out how this
+hexapod actually works.\n\n
+        Highlights:\n
+
+➢ Laws of robots and role of microcontrollers\n
+    ➢ Arduino session\n
+
+➢ Hexapod structure and walking algorithm calculation\n
+</string>
+    <string name="mercedes_is_known_for_its_hybrid_engine_variants_but_how_do_they_do_it_what_components_are_used_for_building_an_engine_come_and_have_a_experience_and_let_your_brains_go_bragging_about_the_engine_diagnosis">Mercedes is known for its hybrid engine variants, but how do they do it? What components are used for building an engine? Come and let your brains go bragging about the engine analysis.</string>
+    <string name="iot_workshop_is_specially_designed_for_students_from_electronics_electrical_computer_science_and_it_who_have_keen_interest_in_interfacing_various_types_of_sensors_and_working_with_communication_modules_like_bluetooth">IOT Workshop is specially designed for students from Electronics, Electrical, Computer Science and IT who have Keen interest in interfacing various types of sensors and working with different modules.</string>
+    <string name="a_hexapod_robot_is_a_mechanical_robot_that_walks_on_six_legs_it_imitates_insect_crawling_motion_and_is_the_most_famous_one_in_the_legged_robots_category_come_and_grab_the_opportunity_to_build_your_own_hexapod">A Hexapod robot is a mechanical robot that walks on six legs. It imitates Insect Crawling motion and is the most famous one in the legged robots category.</string>
+    <string name="lokesh_reddy_nweb_and_design_core_head">Lokesh Reddy\nCore Head</string>
+    <string name="have_you_ever_wondered_about_the_amount_of_data_we_are_dealing_with_these_days_such_large_data_have_many_challenges_which_include_capturing_data_data_storage_data_analysis_etc_big_data_is_the_field_that_deals_with_analysis_of_such_large_data">Have you ever wondered about the amount of data we are dealing with these days? Such large data have many challenges which include capturing data, data storage, data analysis, etc.</string>
+    <string name="big_data_and_data_analytics">Big Data and Data Analytics</string>
+    <string name="bridge_design">Bridge Design</string>
+    <string name="bridge_design_is_one_of_the_oldest_subjects_in_civil_engineering_this_course_deals_with_bridge_substructure_systems_highlighting_the_more_technical_aspects_of_the_design_and_rehabilitation_of_the_bridge_substructure">This course deals with bridge substructure systems, highlighting the more technical aspects of the design and rehabilitation of the bridge
+substructure.</string>
+    <string name="big_data_and">Have you ever wondered about the amount of data we are dealing with these days? Such large data
+have many challenges which include capturing data, data storage, data analysis, search, sharing,
+transfer, visualization, updating, information privacy etc. Big Data is the field that deals with analysis of
+such large data. This workshop deals with the necessary skills to work upon Big Data.\n\n
+    Highlights:\n
+
+➢ Introduction to Big Data technology\n
+
+➢ Hadoop and Hbase\n
+
+➢ Data Analytics and dealing with different types of data\n
+    </string>
+    <string name="bridge_de">Bridge design is one of the oldest subjects in civil engineering. This course deals with bridge substructure
+systems, highlighting the more technical aspects of the design and rehabilitation of the bridge
+substructure.\n\n
+    Highlights:\n
+
+➢ Introduction to Bridge Design through interactive lecture sessions with good multimedia content\n
+
+➢ Interactive practical session on CAD based Bridge Design, Fabrication and Testing\n
+
+➢ Exposure to current industry methods used in bridge design\n
+➢ The program is designed to take the participants through the technical concepts involved in Civil Engineering\n</string>
+    <string name="wissenaire_">Wissenaire\'20</string>
+    <string name="todo">TODO</string>
+    <string name="ai">Artificial Intelligence refers to the machine intelligence. Machine learning is an application of artificial
+intelligence (AI) that provides systems the ability to automatically learn and improve from experience
+without being explicitly programmed. Machine learning focuses on the development of computer
+programs that can access data and use it learn for themselves. This workshop equips you with the
+necessary skills required for the understanding of Artificial Intelligence and Machine Learning.\n\n
+    Highlights:\n
+➢ Machine Learning techniques.\n
+
+➢ Machine Learning system design.\n
+
+➢ Introduction to python and anaconda.\n
+
+➢ Working on spyder and jupyter notebook.\n
+
+➢ Machine Learning algorithms.\n
+
+➢ Neural network (Deep Learning).\n </string>
+    <string name="web">Web development broadly refers to the tasks associated with developing websites for hosting via
+intranet or internet. The web development process includes web design, web content development,
+client-side/server-side scripting and network security configuration, among other tasks. In this
+workshop, you will be introduced with the necessary skills required for Web Development.\n\n
+    Highlights:\n
+➢ Introduction to web development using HTML, CSS, JS tags.\n
+
+➢ Database (mysql) and frame works.\n
+
+➢ Basics about Django template and Django admin.\n
+
+➢ Application of web development and comparison between frame works.\n
+
+➢ Q/A session.\n</string>
+    <string name="digital">Social media technologies are continuously transforming the ways consumers interact with each other
+and with firms. These changes constitute a fundamental shift in the marketplace--consumers have
+greater opportunities to voice their opinions and connect with their peers, with increased influence over
+marketers and brands. In this workshop, we examine how organizations capitalize on social media and
+these consumer-to-consumer interactions to support their marketing efforts.\n\n
+    Highlights:\n
+➢ Foundations of the new Social Media Marketing and SEO tactics.\n
+
+➢ Integrated Marketing communications.\n
+
+➢ On-page and off-page optimization.\n
+➢ SEO audit.\n</string>
+</resources>
